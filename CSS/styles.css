@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.contenedor-titulo{
+    width: 100%;
+    height: 10vh;
+    background-color:  #45b39d;
+}
+
+.contenedor-imagenes{
+    width: 100%;
+    height: 90vh;
+}
+
+.titulo{
+    text-align: center;
+    height: 100%;
+    padding-top: 0.5%;
+    font-size: 55px;
+    color:  #fbfcfc
+    ;
+}
+
+.contenedor-imagen{
+    height: 350px;
+    padding: 1%;
+}
+
+.imagen{
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.imagen img{
+    width: 100%;
+    height: 100%;
+}
